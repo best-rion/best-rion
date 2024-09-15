@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hossain Rion
-- 👀 I’m interested in Monneeyyy 💸
+- 👀 I’m interested in Games Design
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
