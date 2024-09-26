@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hossain Rion
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to Work on Enterprise Project
+- 💞️ I’m looking to Work on Enterprise Projects
 - 🔗 My Website https://best-rion.github.io/me/
 
 <!---
