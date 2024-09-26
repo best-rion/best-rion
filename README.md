@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Hossain Rion
-- 👀 I’m interested in Games Design
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Backen Development
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to Work on Enterprise Project
+- 🔗 My Website https://best-rion.github.io/me/
 
 <!---
 best-rion/best-rion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
